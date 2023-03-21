@@ -1,0 +1,193 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "REO5O RFT",
+      "price": 10000,
+      "description": "REO5O RFT 275/35 R19",
+      "images": [
+        "https://tyrewaale.com/image/thumbnail?filename=tyre-pattern-1629889869-pattern_tyre_imguser_id_1.jpg"
+      ],
+      "creationAt": "2023-03-13T06:39:27.000Z",
+      "updatedAt": "2023-03-13T23:56:06.000Z",
+      "features" : {
+        "width" : 225,
+        "height" : 222,
+        "rim" : 12,
+        "sppedRating" : "s"
+      }
+    },
+    {
+      "id": 2,
+      "title": "MRF RFT",
+      "price": 10000,
+      "description": "REO5O RFT 275/35 R19",
+      "images": [
+        "https://tyrewaale.com/image/thumbnail?filename=tyre-pattern-1629889869-pattern_tyre_imguser_id_1.jpg"
+      ],
+      "creationAt": "2023-03-13T06:39:27.000Z",
+      "updatedAt": "2023-03-13T23:56:06.000Z",
+      "features" : {
+        "width" : 225,
+        "height" : 222,
+        "rim" : 12,
+        "sppedRating" : "s"
+      }
+    },
+    {
+      "id": 3,
+      "title": "YOKOMAHA RFT",
+      "price": 10000,
+      "description": "REO5O RFT 275/35 R19",
+      "images": [
+        "https://tyrewaale.com/image/thumbnail?filename=tyre-pattern-1629889869-pattern_tyre_imguser_id_1.jpg"
+      ],
+      "creationAt": "2023-03-13T06:39:27.000Z",
+      "updatedAt": "2023-03-13T23:56:06.000Z",
+      "features" : {
+        "width" : 225,
+        "height" : 222,
+        "rim" : 12,
+        "sppedRating" : "s"
+      }
+    },
+    {
+      "id": 4,
+      "title": "REO5O RFT",
+      "price": 10000,
+      "description": "REO5O RFT 275/35 R19",
+      "images": [
+        "https://tyrewaale.com/image/thumbnail?filename=tyre-pattern-1629889869-pattern_tyre_imguser_id_1.jpg"
+      ],
+      "creationAt": "2023-03-13T06:39:27.000Z",
+      "updatedAt": "2023-03-13T23:56:06.000Z",
+      "features" : {
+        "width" : 225,
+        "height" : 222,
+        "rim" : 12,
+        "sppedRating" : "s"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Testing RFT",
+      "price": 10000,
+      "description": "REO5O RFT 275/35 R19",
+      "images": [
+        "https://tyrewaale.com/image/thumbnail?filename=tyre-pattern-1629889869-pattern_tyre_imguser_id_1.jpg"
+      ],
+      "creationAt": "2023-03-13T06:39:27.000Z",
+      "updatedAt": "2023-03-13T23:56:06.000Z",
+      "features" : {
+        "width" : 225,
+        "height" : 222,
+        "rim" : 12,
+        "sppedRating" : "s"
+      }
+    },
+    {
+      "id": 6,
+      "title": "TSSS RFT",
+      "price": 10000,
+      "description": "REO5O RFT 275/35 R19",
+      "images": [
+        "https://tyrewaale.com/image/thumbnail?filename=tyre-pattern-1629889869-pattern_tyre_imguser_id_1.jpg"
+      ],
+      "creationAt": "2023-03-13T06:39:27.000Z",
+      "updatedAt": "2023-03-13T23:56:06.000Z",
+      "features" : {
+        "width" : 225,
+        "height" : 222,
+        "rim" : 12,
+        "sppedRating" : "s"
+      }
+    },
+    {
+      "id": 7,
+      "title": "REO5O RFT",
+      "price": 10000,
+      "description": "REO5O RFT 275/35 R19",
+      "images": [
+        "https://tyrewaale.com/image/thumbnail?filename=tyre-pattern-1629889869-pattern_tyre_imguser_id_1.jpg"
+      ],
+      "creationAt": "2023-03-13T06:39:27.000Z",
+      "updatedAt": "2023-03-13T23:56:06.000Z",
+      "features" : {
+        "width" : 225,
+        "height" : 222,
+        "rim" : 12,
+        "sppedRating" : "s"
+      }
+    },
+    {
+      "id": 8,
+      "title": "REO5O RFT",
+      "price": 10000,
+      "description": "REO5O RFT 275/35 R19",
+      "images": [
+        "https://tyrewaale.com/image/thumbnail?filename=tyre-pattern-1629889869-pattern_tyre_imguser_id_1.jpg"
+      ],
+      "creationAt": "2023-03-13T06:39:27.000Z",
+      "updatedAt": "2023-03-13T23:56:06.000Z",
+      "features" : {
+        "width" : 225,
+        "height" : 222,
+        "rim" : 12,
+        "sppedRating" : "s"
+      }
+    },
+    {
+      "id": 9,
+      "title": "REO5O RFT",
+      "price": 10000,
+      "description": "REO5O RFT 275/35 R19",
+      "images": [
+        "https://tyrewaale.com/image/thumbnail?filename=tyre-pattern-1629889869-pattern_tyre_imguser_id_1.jpg"
+      ],
+      "creationAt": "2023-03-13T06:39:27.000Z",
+      "updatedAt": "2023-03-13T23:56:06.000Z",
+      "features" : {
+        "width" : 225,
+        "height" : 222,
+        "rim" : 12,
+        "sppedRating" : "s"
+      }
+    },
+    {
+      "id": 10,
+      "title": "REO5O RFT",
+      "price": 10000,
+      "description": "REO5O RFT 275/35 R19",
+      "images": [
+        "https://tyrewaale.com/image/thumbnail?filename=tyre-pattern-1629889869-pattern_tyre_imguser_id_1.jpg"
+      ],
+      "creationAt": "2023-03-13T06:39:27.000Z",
+      "updatedAt": "2023-03-13T23:56:06.000Z",
+      "features" : {
+        "width" : 225,
+        "height" : 222,
+        "rim" : 12,
+        "sppedRating" : "s"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "cart": {
+    "name": "typicode"
+  },
+  "width": [
+    {
+      "name": 123,
+      "id": 1
+    }
+  ]
+}

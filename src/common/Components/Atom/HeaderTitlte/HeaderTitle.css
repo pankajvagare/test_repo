@@ -1,0 +1,15 @@
+.title-header{
+    font-size: 18px;
+    font-weight: bolder;
+    color: white;
+    padding-bottom: 20px;
+}
+
+.title-header::after{
+    content: '';
+    display: block;
+    width: 30px;
+    height: 2px;
+    background: #f2c21a;
+    margin-top: 15px;
+}

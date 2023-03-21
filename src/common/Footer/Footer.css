@@ -1,0 +1,19 @@
+.car-brands-footer-link-2,.car-brands-footer-link-1{
+    list-style: none;
+}
+
+.car-brands-footer-link-2 a,.car-brands-footer-link-1 a{
+    color: white;
+    text-decoration: none;
+}
+
+.footer-container{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.footer{
+    background-image:linear-gradient(360deg,#133a65 40%,#0d4e9d 100%);
+}
+.important-links li {
+    margin-bottom: 15px;
+}

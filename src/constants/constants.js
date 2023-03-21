@@ -1,0 +1,1 @@
+export const SUB_HEADER_TEXT = "Speak to our executive +91 999-982-3205";

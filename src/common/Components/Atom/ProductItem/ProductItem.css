@@ -1,0 +1,9 @@
+.product-image{
+    width: 100%;
+}
+.product-thumb{
+    box-shadow: 0 2px 48px 0 rgb(0 0 0 / 6%);
+}
+.product-container{
+    padding: 30px;
+}

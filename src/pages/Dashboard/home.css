@@ -1,0 +1,27 @@
+.know-more-container{
+    background-image: linear-gradient(180deg,#133a65 40%,#0d4e9d 100%);
+    padding: 30px;
+}
+.get-tyres-container{
+    color: white;
+}
+.align-center{
+ text-align: center ;
+}
+.know-more-button{
+    padding: 10px;
+}
+.tabs-container{
+    padding: 40px;
+    width: 50% !important;
+}
+.tabs-container .nav-link.active{
+    background-image: linear-gradient(180deg,#133a65 40%,#0d4e9d 100%) !important;
+    color: white !important;
+}
+.tabs-container .nav-item{
+    width: 50%;
+}
+.tabs-container .nav-link{
+    width: 100%;
+}
